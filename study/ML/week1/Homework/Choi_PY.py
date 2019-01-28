@@ -1,3 +1,4 @@
+print('보고싶은 크기를 입력하시오',end="")
 temp = int(input())
 for i in range(temp + 1):
     for j in range(temp - i):
