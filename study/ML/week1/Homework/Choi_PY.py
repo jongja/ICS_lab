@@ -1,4 +1,4 @@
-print('º¸°í½ÍÀº Å©±â¸¦ ÀÔ·ÂÇÏ½Ã¿À',end="")
+ï»¿print('ë³´ê³ ì‹¶ì€ í¬ê¸°ë¥¼ ì…ë ¥í•˜ì‹œì˜¤',end="")
 temp = int(input())
 for i in range(temp + 1):
     for j in range(temp - i):
